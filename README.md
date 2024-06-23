@@ -1,4 +1,7 @@
 # Tic Tac Toe
+![image](https://img.freepik.com/premium-vector/back-school-futuristic-background-realistic-3d-cartoon-style-rocket-flying-clouds-sky_155957-1539.jpg)
+
+
 in the game there are to modes 
 1. playerv vs. player
 2. player vs. bot
